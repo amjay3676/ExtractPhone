@@ -26,3 +26,5 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+#### Purpose
+This code is meant to prevent sharing phone numbers in text or chat field
